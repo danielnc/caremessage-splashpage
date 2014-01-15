@@ -1,0 +1,4 @@
+caremessage-splashpage
+======================
+
+Splash page!
